@@ -2,8 +2,8 @@ import java.awt.*;
 import java.util.*;
 
 public class SeamCarver {
-	// Your code here
-	Picture picture;
+	
+    Picture picture;
     Color[][] colors;
     double[][] energies;
     int width;
